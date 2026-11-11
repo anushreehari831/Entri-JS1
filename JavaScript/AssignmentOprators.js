@@ -1,0 +1,10 @@
+let number=10;
+console.log("Number: ",number);
+number+=5;
+console.log("After Addition: ",number);
+number-=3;
+console.log("After Subtraction: ",number);
+number*=2;
+console.log("After Multiplication: ",number);
+number/=4;
+console.log("After Division: ",number); 
